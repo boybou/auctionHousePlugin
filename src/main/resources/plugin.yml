@@ -1,0 +1,7 @@
+name: auctionHouse
+version: ${project.version}
+main: auctionHouse.java
+api-version: 1.15
+#commands:
+#  basic:
+#    usage: /test

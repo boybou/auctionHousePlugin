@@ -1,0 +1,15 @@
+.main{
+    height: 100%;
+    width: 100%;
+    display: flex;
+
+}
+.main .left-side{
+    width: 30%;
+    height: 100%;
+}
+.main .right-side{
+    width: 70%;
+    height: 100%;
+}
+

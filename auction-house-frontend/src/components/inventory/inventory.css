@@ -1,0 +1,23 @@
+.inventory{
+   border:solid 1px black;
+   height: 100%;
+   overflow: scroll;
+}
+.misc{
+}
+.inventory ul{
+   border: 1px solid black;
+   list-style: none;
+   margin: 0;
+   padding: 0;
+}
+
+.inventory ul li:hover{
+   border: 2px solid black;
+
+}
+.inventory ul li{
+   min-height: 40px;
+   cursor: pointer;
+   border: 1px solid black;
+}
